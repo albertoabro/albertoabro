@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/albertoabro/albertoabro/blob/main/header.webp"></img>
+  <img src="https://github.com/albertoabro/albertoabro/blob/main/DALL%C2%B7E%202024-12-31%2016.20.08%20-%20A%20futuristic%20and%20glowing%20cyberpunk-themed%20banner%20showcasing%20'ALBERTO%20ABAD%20RODRIGUEZ'%20as%20a%20'BACK%20END%20DEVELOPER'%20in%20the%20center.%20The%20design%20includes%20styl.webp"></img>
 </div>
 
 ## NEXT
