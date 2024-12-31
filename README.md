@@ -15,7 +15,7 @@
   <a href = "mailto:albertoabro@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width=25px height=25px /></a> albertoabro@gmail.com 
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> $${\color{#215A42FF}About \space Me}$$
+## $${\color{#215A42FF}About \space Me}$$ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 <div align="left">
    <p> 🔧 I am actively seeking employment opportunities</p>
    <p> 💻 I am developing my skills as a Backend Developer | Enthuastic about new technologies</p>
