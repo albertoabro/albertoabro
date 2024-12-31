@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://github.com/albertoabro/albertoabro/blob/main/header.png"></img>
 </div>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=215A42&background=FFFFFF00&center=true&width=380&height=45&lines=Back+End+Developer;Java+%7C+SQL+%7C+JavaScript;Spring+Boot++%7C+Express.Js" alt="Typing SVG" /></a>
+</div>
 
 ## NEXT
 <!--
