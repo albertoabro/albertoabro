@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div aling="center">
-  <img src="https://github.com/albertoabro/albertoabro/blob/main/header.gif" aling="center" height=200 width=600></img>  
+  <img src="https://github.com/albertoabro/albertoabro/blob/main/header.gif" aling="center"></img>  
 </div>
 <!--
 **albertoabro/albertoabro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
