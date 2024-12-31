@@ -25,11 +25,15 @@
    <p> 🏢 Volunteer Coordinator</p>
 </div>
 
-<table width="100%">
+##
+
+ <table width="100%">
   <tr>
-    <td width="60%">
-      
-## Technical Skills
+    <th>Technical Skills</th>
+    <th>Soft Skills</th>
+  </tr>
+  <tr>
+    <td width="75%">
 
   #### Back-end
   <img src="https://skillicons.dev/icons?i=java,js,cs,cpp width=50px height=50px"/>
@@ -43,11 +47,19 @@
   ### Frameworks | Tools | Technologies
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,bootstrap,docker,git,maven,hibernate,jenkins,kafka,kubernetes,sequelize  width=50px height=50px"/>
   
-   </td>
+  </td>
+  
    <td>
-
-## Soft Skill
-
+<p>Teamwork</p>
+<p>Proactivity</p>
+<p>Adaptability</p>
+<p>Time management</p>
+<p>Problem-solving</p>
+<p>Leadership</p>
+     
    </td>
   </tr>
 </table>
+
+
+
