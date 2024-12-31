@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/albertoabro/albertoabro/refs/heads/main/header.webp" height=400 width=400](https://github.com/albertoabro/albertoabro/blob/main/header.webp)></img>
+  <img src="https://github.com/albertoabro/albertoabro/blob/main/header.webp"></img>
 </div>
 
 ## NEXT
