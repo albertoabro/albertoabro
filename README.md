@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/albertoabro/albertoabro/blob/main/header.png"></img>
+  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/header.png"></img>
 </div>
 
 <div align="center">
@@ -61,5 +61,8 @@
   </tr>
 </table>
 
-
+## Main Projects
+<div align="left">
+  <!-- <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/ERP.png"></img> -->
+</div>
 
