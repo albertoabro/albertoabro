@@ -68,13 +68,26 @@
     <th>Educational Projects</th>
   </tr>
   <tr>
-  <td width="50%">
+  <td width="50%" align="center">
 
   #### Hospitality Industry ERP
-  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/ERP.png"></img>
+  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/ERP.png" ></img>
+  <p>Enterprise Resource Planning (ERP) system for the business management of a hospitality company, incorporating a frontend implemented in Angular, microservices architecture developed with Spring Boot, and a SQL Server database.</p>
+</td>
 
-  #### Sales POS
+<td width="50%" align="center">
+
+  #### AcmeGym
+  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/AcmeGym.png" ></img>
+</td>
+
+</tr>
+<tr>
+<td width="50%" align="center">
   
+  #### Sales POS
+  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/TPV.png"></img>
+  <p>Point of Sale (POS) system developed in C# to handle product sales operations, manage current inventory, and calculate daily profits.</p>
   </td>
   </tr>
 </table>
