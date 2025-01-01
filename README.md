@@ -79,6 +79,7 @@
 
   #### AcmeGym
   <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/AcmeGym.png" ></img>
+  <p>A project designed to manage the operations of a gym, integrating user roles, login functionalities, and language selection (Spanish/English). The implementation utilizes Spring 4, MVC for view management, and JSP for the design of the user interfaces</p>
 </td>
 
 </tr>
@@ -88,6 +89,11 @@
   #### Sales POS
   <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/TPV.png"></img>
   <p>Point of Sale (POS) system developed in C# to handle product sales operations, manage current inventory, and calculate daily profits.</p>
+  </td>
+  <td align="center">
+
+  #### TPV ONUBA (Bachelor's Thesis)
+  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/TPV_Onuba.png"></img>
   </td>
   </tr>
 </table>
