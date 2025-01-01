@@ -25,7 +25,7 @@
    <p> 🏢 Volunteer Coordinator</p>
 </div>
 
-##
+## $${\color{#215A42FF}Skills}$$
 
  <table width="100%">
   <tr>
@@ -61,8 +61,21 @@
   </tr>
 </table>
 
-## Main Projects
-<div align="left">
-  <!-- <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/ERP.png"></img> -->
-</div>
+## $${\color{#215A42FF}Main \space Projects}$$
+<table width="100%">
+  <tr>
+    <th>Work Projects</th>
+    <th>Educational Projects</th>
+  </tr>
+  <tr>
+  <td width="50%">
+
+  #### Hospitality Industry ERP
+  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/ERP.png"></img>
+
+  #### Sales POS
+  
+  </td>
+  </tr>
+</table>
 
