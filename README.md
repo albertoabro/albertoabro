@@ -63,38 +63,42 @@
 
 ## $${\color{#215A42FF}Main \space Projects}$$
 <table width="100%">
+  
   <tr>
     <th>Work Projects</th>
     <th>Educational Projects</th>
   </tr>
-  <tr>
-  <td width="50%" align="center">
-
-  #### Hospitality Industry ERP
-  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/ERP.png" ></img>
-  <p>Enterprise Resource Planning (ERP) system for the business management of a hospitality company, incorporating a frontend implemented in Angular, microservices architecture developed with Spring Boot, and a SQL Server database.</p>
-</td>
-
-<td width="50%" align="center">
-
-  #### AcmeGym
-  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/AcmeGym.png" ></img>
-  <p>A project designed to manage the operations of a gym, integrating user roles, login functionalities, and language selection (Spanish/English). The implementation utilizes Spring 4, MVC for view management, and JSP for the design of the user interfaces</p>
-</td>
-
-</tr>
-<tr>
-<td width="50%" align="center">
   
-  #### Sales POS
-  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/TPV.png"></img>
-  <p>Point of Sale (POS) system developed in C# to handle product sales operations, manage current inventory, and calculate daily profits.</p>
-  </td>
-  <td align="center">
-
-  #### TPV ONUBA (Bachelor's Thesis)
-  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/TPV_Onuba.png"></img>
-  </td>
+  <tr>
+    <th>Hospitality Industry ERP</th>
+    <th>AcmeGym</th>
   </tr>
+  
+  <td width="50%" align="center">
+  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/ERP.png" ></img>
+  <p align="justify">Enterprise Resource Planning (ERP) system for the business management of a hospitality company, incorporating a frontend implemented in Angular, microservices architecture developed with Spring Boot, and a SQL Server database.</p>
+</td>
+
+<td width="50%" align="center">
+  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/AcmeGym.png" ></img>
+  <p align="justify"">A project designed to manage the operations of a gym, integrating user roles, login functionalities, and language selection (Spanish/English). The implementation utilizes Spring 4, MVC for view management, and JSP for the design of the user interfaces</p>
+</td>
+
+<tr>
+  <th>Sales POS</th>
+  <th>TPV Onuba (Bachelor's Thesis)</th>
+</tr>
+
+<td width="50%" align="center">
+  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/TPV.png"></img>
+  <p align="justify">Point of Sale (POS) system developed in C# to handle product sales operations, manage current inventory, and calculate daily profits.</p>
+  </br>
+  </td>
+  
+  <td width="50%" align="center">
+  <img src="https://github.com/albertoabro/albertoabro/blob/main/assets/TPV_Onuba.png"></img>
+  <p align="justify">TPV Onuba is an ERP system designed to manage an artisanal bakery. The software is built with a MySQL database, connected to a REST API (developed using Node.js and Express), utilizing the Sequelize ORM. This API interfaces with the web management application, developed with Spring Boot, which processes the data and presents it through JSP-based views.</p>
+  </td>
+ 
 </table>
 
