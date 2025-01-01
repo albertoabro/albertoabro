@@ -71,7 +71,11 @@
   
   <tr>
     <th>Hospitality Industry ERP</th>
-    <th>AcmeGym</th>
+    <th>
+      AcmeGym
+      <a href="https://github.com/albertoabro/AcmeGym">
+    <img src="https://skillicons.dev/icons?i=github width="25px" height="25px" align="right" alt="Link to AcmeGym" title="AcmeGym""/></a>
+    </th>
   </tr>
   
   <td width="50%" align="center">
@@ -86,7 +90,14 @@
 
 <tr>
   <th>Sales POS</th>
-  <th>TPV Onuba (Bachelor's Thesis)</th>
+  <th>
+    TPV Onuba (Bachelor's Thesis) 
+    <a href="https://github.com/albertoabro/WebApp_TPV_Onuba">
+    <img src="https://skillicons.dev/icons?i=github width="25px" height="25px" align="right" alt="Link to WebApp_TPV_Onuba" title="WebApp_TPV_Onuba""/></a>
+    <a href="https://github.com/albertoabro/API_TPV_Onuba">
+    <img src="https://skillicons.dev/icons?i=github width="25px" height="25px" align="right" alt="Link to API_TPV_Onuba" title="API_TPV_Onuba""/></a>
+    
+  </th>
 </tr>
 
 <td width="50%" align="center">
