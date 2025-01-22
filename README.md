@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,cs,cpp width=50px height=50px"/>
   
   #### Front-end
-  <img src="https://skillicons.dev/icons?i=js,html,css width=50px height=50px"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css width=50px height=50px"/>
 
   #### Database
   <img src="https://skillicons.dev/icons?i=mysql,mongodb width=50px height=50px"/>
